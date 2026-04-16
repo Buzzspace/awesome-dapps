@@ -25,6 +25,7 @@
 - [Ethereum](https://ethereum.org/)
 - [Golem](https://golem.network/)
 - [Polybase](https://polybase.xyz)
+- [Perpmate](http://perpmate.com/)
 
 ## Social Media
 
@@ -71,6 +72,7 @@
 - [DeveloperDAO](https://twitter.com/developer_dao)
 - [LearnWeb3](https://www.learnweb3.io/)
 - [EatTheBlocks Pro](http://pro.eattheblocks.com)
+- [Perpetuals](http://perpmate.com/learn)
 - [Ethereum Dapps In Motion](https://www.manning.com/livevideo/ethereum-dapps-in-motion)
 - [Blockchain in Action](https://www.manning.com/books/blockchain-in-action)
 
